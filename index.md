@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Dovetec.org Pages
+![logo](https://user-images.githubusercontent.com/70941806/173230748-d6eaa3c2-c6a1-4c82-b949-fab9081613a0.png)
+
 
 <!-- You can use the [editor on GitHub](https://github.com/Dovineowuor/dovineowuor.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files. -->
 
@@ -43,7 +45,7 @@
 
 ### Support or Contact
 
-[Dovetec.org](github.com/dovineowuor/![code](https://user-images.githubusercontent.com/70941806/173229152-01568ae8-19b1-4073-80d0-a467e2d5928b.png)
+[Dovetec.org](github.com/dovineowuor/
 dovetec.org)
 <!-- Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
  -->
