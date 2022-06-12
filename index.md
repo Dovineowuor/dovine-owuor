@@ -49,3 +49,6 @@
 dovetec.org)
 <!-- Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
  -->
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="dovine-owuor" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/dovine-owuor?trk=profile-badge">Dovine Owuor</a></div>
+              
