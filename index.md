@@ -1,54 +1,113 @@
-## Welcome to Dovetec.org Pages
-![logo](https://user-images.githubusercontent.com/70941806/173230748-d6eaa3c2-c6a1-4c82-b949-fab9081613a0.png)
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2723584294261854"
+     crossorigin="anonymous"></script>
+<!-- Dovetec -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2723584294261854"
+     data-ad-slot="4100232158"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dovetec.Org</title>
+
+  <!--- Google Fonts-->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat900&family=Ubuntu:wght@700&display=swap" rel="stylesheet">
+
+  <!-- CSS Stylesheet -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Font Awesome -->
+  <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" data-auto-replace-svg="nest"></script>
+
+  <!--Bootstrap Script-->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> -->
 
 
-<!-- You can use the [editor on GitHub](https://github.com/Dovineowuor/dovineowuor.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files. -->
+<body>
 
-<!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
+  <section id="title">
 
-<!-- ### Markdown -->
+    <div class="container-fluid">
 
-<!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for -->
+      <!-- Nav Bar -->
 
-<!-- ```markdown -->
-<!-- Syntax highlighted code block -->
 
-# Dovetec.org
-## Welcome to Dovetec.org <br> A solution to workforce Complexity 
-### Get started
+      <nav class="navbar navbar-dark navbar-expand-md">
+        <a href="#" class="navbar-brand">Dovetec.Org</a>
+        <button class="navbar-toggler collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse" id="navbar">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a href="#" class="nav-link">Home</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">About</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Blog</a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link">Contact</a>
+              </li>
+          </ul>
 
-  Explore More
-  Be part of Us!
-  
-  ##Our Services
+          <div class="h-btn">
+            <a href="index1.html" class="sign-up">Sign Up</a>
+            <a href="index.html" class="sign-in">Sign In</a>
+          </div>
 
-1. Software Engineering
-2. Website Development
-3. Web Design
-4. Product Design
-5. Software Architecture
-6. Product Management
-7. Virtual Assistance
-8. Hardware Management
-9. Storage 
+        </div>
+      </nav>
 
-<!-- **Bold** and _Italic_ and `Code` text -->
 
-<!-- [Link](url) and ![Image](src) -->
-<!-- ```-->
+      <!-- Title -->
 
-<!-- For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
+      <div class="row">
+        <div class="col-lg-6">
+            <h1>
+                Dovetec.Org <br>
+                <h1>
+                  <h1>
+                      A Brighter Africa and A Successfull version of you Expects your Action\n, Start now, Act Now For Tommorow is no more. \nBelieve In Yourself And Make An Impact.</h1>        
+                  </h1>  
+              </h1>
+              <h5>
+                Welcome to Dovetec.org <br>
+                A home a One Stop Solution To All Tech And Workforce Challanges
+              </h5>
+          <button type="button" class="btn btn-light btn-lg dowload-button"><i class="fab fa-apple"></i> Download</button>
+          <button type="button" class="btn btn-outline-light btn-lg dowload-button"><i class="fab fa-google-play"></i> Download</button>
+        </div>
+        <div class="col-lg-6">
+          <img class="title-image" src="img/banner-img-2.webp" alt="banner-mockup">
+        </div>
 
-<!-- ### Jekyll Themes -->
+      </div>
+    </div>
+  </section>
 
-<!-- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dovineowuor/dovineowuor.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
+ <!-- Footer -->
 
-### Support or Contact
+  <footer id="footer">
+<button type="button" class="btn btn-light btn-lg dowload-button"><i class="fab fa-apple"></i> Download</button>
+<button type="button" class="btn btn-outline-light btn-lg dowload-button"><i class="fab fa-google-play"></i> Download</button>
+        
 
-[Dovetec.org](github.com/dovineowuor/
-dovetec.org)
-<!-- Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
- -->
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="dovine-owuor" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/dovine-owuor?trk=profile-badge">Dovine Owuor</a></div>
-              
+    <p>© Dovetec.Org</p>
+    </div>
+</body>
+</html>
+    
